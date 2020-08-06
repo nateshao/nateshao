@@ -1,8 +1,5 @@
 ### Hi there 👋
 ### 我是邵桐杰啊
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nateshao)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&theme=radical)
 
