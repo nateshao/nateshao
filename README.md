@@ -1,4 +1,13 @@
-### Hi there 👋
+👋 Hi there, welcome to my github.
+😄 If you are interested, you can have a look at my blog: https://nateshao.gitee.io or http://www.nateshao.cn
+
+📫 How to reach me?Please contact me by email: shaotongjie@gmail.com
+
+💬 Ask me about?Not limited to technology, it can be in many ways.
+
+👯 If you are looking for cooperation, please contact me by email.
+
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&theme=radical)
 
