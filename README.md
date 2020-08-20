@@ -8,35 +8,8 @@
 
 👯 If you are looking for cooperation, please contact me by email.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nateshao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-I'm TongJie Shao
-
-A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-
-🌱 Currently working in ShenZhen, China.
-
-💬 Ask me about Java, TypeScript and my projects on 1210331079@qq.com
-
-⭐ You may like blog
-
-⚡ Fun fact: Data Analysis📊
-
-🛠 技术栈 | Tech Stack
-
-💻   Java Linux 聚合支付
-
-🌐   Java JavaWeb Spring SpringMvc MyBatis SpringBoot SpringCloud
-
-🛢   MySQL MongoDB Oracle Redis 
-
-🔧  Git GitHub Markdown
 
 ## 博客
-
-一个简洁优雅的hexo主题
 
 [千羽的编程时光](https://nateshao.gitee.io/)  或者[www.nateshao.cn](http://www.nateshao.cn/)  或者[千羽的编程时光](https://nateshao.github.io/)
 
@@ -48,6 +21,11 @@ I love to make friends. so if you want to say hi, I'll be happy to meet you more
 
 
 
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nateshao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
