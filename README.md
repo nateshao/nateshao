@@ -8,25 +8,19 @@
 
 👯 If you are looking for cooperation, please contact me by email.
 
-
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nateshao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-博客搭建交流群 webkettle交流群 Mail Badge
-
-
-I'm Siwei Zhou
+I'm TongJie Shao
 
 A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 
-🌱 Currently working in Hangzhou, China.
+🌱 Currently working in ShenZhen, China.
 
-💬 Ask me about Java, TypeScript and my projects on 2434387555@qq.com
+💬 Ask me about Java, TypeScript and my projects on 1210331079@qq.com
 
-⭐ You may like webkettle 、hexo-theme-yilia-plus 、or bootplus
+⭐ You may like blog
 
 ⚡ Fun fact: Data Analysis📊
 
@@ -34,41 +28,17 @@ A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 
 💻   Java Linux 聚合支付
 
-🌐   HTML5 Bootstrap Node.js Vue.js
+🌐   Java JavaWeb Spring SpringMvc MyBatis SpringBoot SpringCloud
 
-🛢   MySQL MongoDB Oracle
+🛢   MySQL MongoDB Oracle Redis 
 
 🔧  Git GitHub Markdown
 
-开源项目
-
-基于SpringBoot + Shiro + MyBatisPlus的权限管理框架
+## 博客
 
 一个简洁优雅的hexo主题
 
-hexo-theme-yilia-plus配置Demo
-
-自动为hexo中的图片映射绝对路径
-
-✏️✏️Java软件工程师简历
-
-一款简洁优雅的VuePress主题
-
-VuePress集成Live2D看板娘
-
-VuePress集成Gitalk
-
-不蒜子访问量统计功能
-
-在npm install后提示用户消息或捐赠
-
-关于我
-
-技术笔记
-
-CSDN
-
-微博
+[千羽的编程时光](https://nateshao.gitee.io/)  或者[www.nateshao.cn](http://www.nateshao.cn/)  或者[千羽的编程时光](https://nateshao.github.io/)
 
 I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊
 
