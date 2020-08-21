@@ -11,7 +11,7 @@
 
 ## 博客
 
-[千羽的编程时光](https://nateshao.gitee.io/)  或者[www.nateshao.cn](http://www.nateshao.cn/)  或者[千羽的编程时光](https://nateshao.github.io/)
+[http://nateshao.gitee.io](https://nateshao.gitee.io/)  或者[www.nateshao.cn](http://www.nateshao.cn/)  或者[https://nateshao.github.io](https://nateshao.github.io/)
 
 I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊
 
