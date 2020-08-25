@@ -9,19 +9,6 @@
 👯 If you are looking for cooperation, please contact me by email.
 
 
-## 博客
-
-[http://nateshao.gitee.io](https://nateshao.gitee.io/)  或者[www.nateshao.cn](http://www.nateshao.cn/)  或者[https://nateshao.github.io](https://nateshao.github.io/)
-
-I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊
-
-⭐️ From tongjie.shao
-
-
-
-
-
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&theme=radical)
 
