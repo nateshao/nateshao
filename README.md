@@ -1,16 +1,16 @@
 ## 👋 Hi there, welcome to my github.
 
-😉 Status
+## 😉 Status
 
 > 目前在职，可以加我微信细聊噢~
 
-😄 WeChat : 1210331079
+- 😄 WeChat : 1210331079
 
-📫 QQ : 1210331079
+- 📫 QQ : 1210331079
 
-💬 邮箱 : shaotongjie@gmail.com
+- 💬 邮箱 : shaotongjie@gmail.com
 
-👯 微信公众号 : 千羽的编程时光
+- 👯 微信公众号 : 千羽的编程时光
 
 - 🔭 个人博客 : https://nateshao.gitee.io 或者 https://nateshao.github.io
 
