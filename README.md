@@ -1,6 +1,6 @@
 ## 👋 Hi there, welcome to my github.
 
-## 😉 Status
+## 😉 找到我
 
 > 目前在职，可以加我微信细聊噢~
 
