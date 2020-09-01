@@ -10,13 +10,14 @@
 
 - 💬 邮箱 : shaotongjie@gmail.com
 
-- 👯 微信公众号 : 千羽的编程时光
-
 - 🔭 个人博客 : https://nateshao.gitee.io 或者 https://nateshao.github.io
 
 - 🌱 GitHub : https://github.com/nateshao
 
 - 👯 Gitee : https://gitee.com/nateshao
+
+
+- 👯 微信公众号 : 千羽的编程时光
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&theme=radical)
