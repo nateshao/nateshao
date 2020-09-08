@@ -19,7 +19,7 @@
 
 - 👯 微信公众号 : 千羽的编程时光
 
-![](https://atom-nateshao.oss-cn-shenzhen.aliyuncs.com/img/qrcode_for_gh_7adc8f5689e2_258.jpg)
+![](https://nateshao-blog.oss-cn-shenzhen.aliyuncs.com/img/qrcode_for_gh_7adc8f5689e2_258.jpg)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&theme=radical)
 
