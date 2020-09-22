@@ -12,6 +12,8 @@
 
 - 🔭 个人博客 : https://nateshao.gitee.io 💛或💛 https://nateshao.github.io
 
+- 🪐 个人网站 ： www.nateshao.cn
+
 - 🌱 GitHub : https://github.com/nateshao
 
 - 👯 Gitee : https://gitee.com/nateshao
