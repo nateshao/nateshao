@@ -4,13 +4,13 @@
 
 > 正在积极找工作，您愿意给我一个机会吗？
 
-- 😄 WeChat : 1210331079
+- 🔭 个人博客 : https://nateshao.gitee.io
 
-- 📫 QQ : 1210331079
+- 💛或💛http://nateshao.oschina.io
 
-- 💬 邮箱 : shaotongjie@gmail.com
+- 💛或💛 https://nateshao.github.io./
 
-- 🔭 个人博客 : https://nateshao.gitee.io 💛或💛 https://nateshao.github.io./
+- 💛或💛访问[coding](https://coding-pages-bucket-3501670-8140272-8317-424311-1300369800.cos-website.ap-hongkong.myqcloud.com)
 
 - 🪐 个人网站 ： www.nateshao.cn
 
@@ -18,6 +18,11 @@
 
 - 👯 Gitee : https://gitee.com/nateshao
 
+- 😄 WeChat : 1210331079
+
+- 📫 QQ : 1210331079
+
+- 💬 邮箱 : shaotongjie@gmail.com
 
 - 👯 微信公众号 : 千羽的编程时光
 
