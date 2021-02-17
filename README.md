@@ -6,11 +6,11 @@
 
 - 🔭 个人博客 : https://nateshao.gitee.io
 
-- 💛或💛http://nateshao.oschina.io
+  - 💛或💛http://nateshao.oschina.io
 
-- 💛或💛 https://nateshao.github.io./
+  - 💛或💛 https://nateshao.github.io./
 
-- 💛或💛访问[coding](https://coding-pages-bucket-3501670-8140272-8317-424311-1300369800.cos-website.ap-hongkong.myqcloud.com)
+  - 💛或💛访问[coding](https://coding-pages-bucket-3501670-8140272-8317-424311-1300369800.cos-website.ap-hongkong.myqcloud.com)
 
 - 🪐 个人网站 ： www.nateshao.cn
 
