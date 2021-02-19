@@ -4,16 +4,6 @@
 
 > 正在积极找工作，您愿意给我一个机会吗？
 
-- 🔭 个人博客 : https://nateshao.gitee.io
-
-  - 💛或💛http://nateshao.oschina.io
-
-  - 💛或💛 https://nateshao.github.io./
-
-  - 💛或💛访问[coding](https://coding-pages-bucket-3501670-8140272-8317-424311-1300369800.cos-website.ap-hongkong.myqcloud.com)
-
-- 🪐 个人网站 ： www.nateshao.cn
-
 - 🌱 GitHub : https://github.com/nateshao
 
 - 👯 Gitee : https://gitee.com/nateshao
@@ -23,6 +13,16 @@
 - 📫 QQ : 1210331079
 
 - 💬 邮箱 : shaotongjie@gmail.com
+
+- 🔭 个人博客 : https://nateshao.gitee.io
+
+  - 💛或💛http://nateshao.oschina.io
+
+  - 💛或💛 https://nateshao.github.io./
+
+  - 💛或💛访问[coding](https://coding-pages-bucket-3501670-8140272-8317-424311-1300369800.cos-website.ap-hongkong.myqcloud.com)
+
+- 🪐 个人网站 ： www.nateshao.cn
 
 - 👯 微信公众号 : 千羽的编程时光
 
@@ -55,7 +55,7 @@
 
 <p align="center">
 <a href= "https://github.com/nateshao/powermock/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/nateshao/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://www.linkedin.com/nateshao/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/nateshao"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://nateshao.gitee.io"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
