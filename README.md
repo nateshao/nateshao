@@ -115,9 +115,7 @@
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
   </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
+ 
  
  </p>
   
