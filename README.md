@@ -15,7 +15,7 @@
 
 ## 🌐 找到我
 
-<a href="https://nateshao.gitee.io"><img alt="个人博客" src="https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2&message=%E5%8D%83%E7%BE%BD%E7%9A%84%E7%BC%96%E7%A8%8B%E6%97%B6%E5%85%89&color=pink"/></a> <a href="https://www.zhihu.com/column/nateshao"><img alt="知乎专栏" src="https://img.shields.io/static/v1?label=%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F&message=nateshao&color=0084FF&logo=Zhihu"/></a> <img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=ShaoTongJie&color=7BB32E&logo=wechat"/> <a href="mailto:1210331079@qq.com"><img alt="邮箱" src="https://img.shields.io/static/v1?label=%E9%82%AE%E7%AE%B1&message=1210331079@qq.com&color=3ABFE6&logo=Minutemailer"/></a>
+<a href="https://nateshao.gitee.io"><img alt="个人博客" src="https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2&message=%E5%8D%83%E7%BE%BD%E7%9A%84%E7%BC%96%E7%A8%8B%E6%97%B6%E5%85%89&color=pink"/></a> <a href="https://www.zhihu.com/people/yong-yuan-de-da-an-9"><img alt="知乎专栏" src="https://img.shields.io/static/v1?label=%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F&message=nateshao&color=0084FF&logo=Zhihu"/></a> <img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=ShaoTongJie&color=7BB32E&logo=wechat"/> <a href="mailto:1210331079@qq.com"><img alt="邮箱" src="https://img.shields.io/static/v1?label=%E9%82%AE%E7%AE%B1&message=1210331079@qq.com&color=3ABFE6&logo=Minutemailer"/></a>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -38,6 +38,8 @@
 
 - 💬 邮箱 : shaotongjie@gmail.com
 
+- 🪐 个人网站 ： www.nateshao.cn
+
 - 🔭 个人博客 : https://nateshao.gitee.io
 
   - 💛或💛http://nateshao.oschina.io
@@ -46,7 +48,6 @@
 
   - 💛或💛访问[coding](https://coding-pages-bucket-3501670-8140272-8317-424311-1300369800.cos-website.ap-hongkong.myqcloud.com)
 
-  - 🪐 个人网站 ： www.nateshao.cn
 <br>
 <details>
   <summary>Some other achievements about me~e~e</summary>
