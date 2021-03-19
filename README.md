@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-![](https://img.shields.io/badge/status-up-brightgreen) ![](https://img.shields.io/badge/%E6%80%A7%E5%88%AB-%E2%99%82%E7%94%B7-lightgrey) ![](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E7%A6%BB%E8%81%8C-pink) ![](https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=syk941020&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/nateshao)
+![](https://img.shields.io/badge/status-up-brightgreen) ![](https://img.shields.io/badge/%E6%80%A7%E5%88%AB-%E2%99%82%E7%94%B7-lightgrey) ![](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E7%A6%BB%E8%81%8C-pink) ![](https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=syk941020&color=7BB32E&logo=wechat) ![](https://visitor-badge.laobi.icu/badge?page_id=nateshao.nateshao)
 
 - 🌱 GitHub : https://github.com/nateshao
 
