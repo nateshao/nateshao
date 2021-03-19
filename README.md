@@ -1,6 +1,4 @@
-## 👋 Hi there, welcome to my github.
-
-## 😉 找到我
+## 👋 Hi there, 终于等到你了😉
 
 > 正在积极找工作，您愿意给我一个机会吗？
 
@@ -156,6 +154,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ## 😉 找到我
 -->
 
 
