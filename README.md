@@ -19,8 +19,6 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=%E5%8D%83%E7%BE%BD&color=7BB32E&logo=wechat"/></td>
-    <br/>
-    <br/>
     <td align="center"><img alt="微信公众号" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7&message=%E5%8D%83%E7%BE%BD%E7%9A%84%E7%BC%96%E7%A8%8B%E6%97%B6%E5%85%89&color=7BB32E&logo=wechat"/></td>
   </tr>
   <tr>
@@ -181,6 +179,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ## 😉 找到我
+
+
+- 🌱 GitHub : https://github.com/nateshao
+
+- 👯 Gitee : https://gitee.com/nateshao
+
+- 😄 WeChat : 1210331079
+
+- 📫 QQ : 1210331079
+
+- 💬 邮箱 : shaotongjie@gmail.com
+
+- 🪐 个人网站 ： www.nateshao.cn
+
+- 🔭 个人博客 : https://nateshao.gitee.io
+
+  - 💛或💛http://nateshao.oschina.io
+  
+  - 💛或💛 https://nateshao.gitlab.io
+
+  - 💛或💛 https://nateshao.github.io./
+
+  - 💛或💛访问[coding](https://coding-pages-bucket-3501670-8140272-8317-424311-1300369800.cos-website.ap-hongkong.myqcloud.com)
+
+  - 💛或💛访问[cloudbase](https://nateshao-cloud-8gaqeoi12d2ad9c5-1300369800.tcloudbaseapp.com/)
 -->
 
 
