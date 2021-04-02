@@ -37,33 +37,6 @@
 | 博客演示地址 | [点我](https://nateshao.gitlab.io/) | [点我](https://nateshao.github.io/) | [点我](https://nateshao.gitee.io/) | [点我](http://nateshao.oschina.io) | [点我](https://coding-pages-bucket-3501670-8140272-8317-424311-1300369800.cos-website.ap-hongkong.myqcloud.com/) | [点我](https://nateshao-cloud-8gaqeoi12d2ad9c5-1300369800.tcloudbaseapp.com/) |
 
 
-
-
-
-
-- 🌱 GitHub : https://github.com/nateshao
-
-- 👯 Gitee : https://gitee.com/nateshao
-
-- 😄 WeChat : 1210331079
-
-- 📫 QQ : 1210331079
-
-- 💬 邮箱 : shaotongjie@gmail.com
-
-- 🪐 个人网站 ： www.nateshao.cn
-
-- 🔭 个人博客 : https://nateshao.gitee.io
-
-  - 💛或💛http://nateshao.oschina.io
-  
-  - 💛或💛 https://nateshao.gitlab.io
-
-  - 💛或💛 https://nateshao.github.io./
-
-  - 💛或💛访问[coding](https://coding-pages-bucket-3501670-8140272-8317-424311-1300369800.cos-website.ap-hongkong.myqcloud.com)
-
-  - 💛或💛访问[cloudbase](https://nateshao-cloud-8gaqeoi12d2ad9c5-1300369800.tcloudbaseapp.com/)
 <br>
 <details>
   <summary>Some other achievements about me~e~e</summary>
