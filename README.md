@@ -46,16 +46,13 @@
   <br>
 
 * 🍎   Java开发工程师.👨🏻‍💻 & Go.🤪
-
-
-
+  
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nateshao&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="nateshao's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=nateshao&column=7" alt="nateshao's Github Trophy" />
-<img align="center" src="https://github.com/nateshao/nateshao/raw/master/timeline-drop/output/dropped-timeline-nateshao.gif" />
+
 </p>
 
 </details>
@@ -63,7 +60,6 @@
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
-
 <p align="center">
 <a href= "https://github.com/nateshao/powermock/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/nateshao/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
