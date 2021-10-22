@@ -63,7 +63,7 @@
 <p align="center">
 <a href= "https://github.com/nateshao/powermock/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/nateshao/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/nateshao"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://twitter.com/shaotongjie1"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://nateshao.gitee.io"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
