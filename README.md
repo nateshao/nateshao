@@ -53,9 +53,9 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nateshao&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=nateshao&column=7" alt="halfrost's Github Trophy" />
-<img align="center" src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="nateshao's Github Stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=nateshao&column=7" alt="nateshao's Github Trophy" />
+<img align="center" src="https://github.com/nateshao/nateshao/raw/master/timeline-drop/output/dropped-timeline-nateshao.gif" />
 </p>
 
 </details>
