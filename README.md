@@ -5,7 +5,7 @@
 
 <table align="right" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://s4.ax1x.com/2021/03/19/6fJJG4.jpg" width="300" hight="275"/> </td>
+    <td align="center"><img src="![](https://gitee.com/nateshao/images/raw/master/img/20211204222215.jpg)" width="300" hight="275"/> </td>
   </tr>
   <tr>
     <td align="center">拍摄于2020.06.20</td>
