@@ -46,7 +46,7 @@
   <summary>Some other achievements about me~e~e</summary>
   <br>
 
-* 🍎   Java开发工程师.👨🏻‍💻 & Go.🤪
+* 🍎   后端开发（Java / Go ）🤪
   
 * 👑   Some GitHub statistical reports:
 
