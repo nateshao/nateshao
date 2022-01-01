@@ -31,9 +31,6 @@
 </table>
 
 
-In 2021, I made 1466 contributions and modified 121,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/nateshao
-
-
 
 
 |              |               Gitlab                |               Github                |               Gitee                |
