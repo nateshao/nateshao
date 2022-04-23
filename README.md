@@ -33,7 +33,7 @@
 
 
 
-|              |               Gitlab                |               Github                |               Gitee                |
+|              |               Gitlab(常维护)                |               Github                |               Gitee                |
 | :----------: | :---------------------------------: | :---------------------------------: | :--------------------------------: |
 | 博客演示地址 | [点我](https://nateshao.gitlab.io/) | [点我](https://nateshao.github.io/) | [点我](https://nateshao.gitee.io/) |
 
