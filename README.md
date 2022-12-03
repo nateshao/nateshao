@@ -1,7 +1,11 @@
 <h1 align="center"> Hello! 👋  I'm <a href="https://github.com/nateshao">千羽</a>!</h1>
 
 
-> 正在积极找工作，您愿意给我一个机会吗？
+💻 现就职于京东实习，负责京东零售下的广告系统业务的研发与测试.
+
+🖖 热爱学习，热爱分享；持续关注 Java Golang 不断精进不断学习.
+
+✍️ 了解一些后端相关技术栈，热爱开源文化，工作学习之余混迹开源社区.
 
 <table align="right" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
