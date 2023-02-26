@@ -41,7 +41,7 @@
 
 |              |               Gitlab(常维护)                |  
 | :----------: | :---------------------------------: | 
-| 博客演示地址 | [点我](https://nateshao.gitlab.io/) |
+| 博客演示地址 | https://nateshao.gitlab.io |
 
 
 <br>
