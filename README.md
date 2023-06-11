@@ -9,7 +9,8 @@
 
 <table align="right" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/nateshao/images/20220327211544.jpg" width="300" hight="275"/> </td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/nateshao/images/20220327211544.jpg" width="300" hight="275"/> </td> 
+    <td align="center"><img src="https://nateshao-blog.oss-cn-shenzhen.aliyuncs.com/img/20230611150701.png" width="300" hight="275"/> </td>
   </tr>
   <tr>
     <td align="center">拍摄于2020.06.20</td>
