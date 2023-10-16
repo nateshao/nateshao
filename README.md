@@ -3,9 +3,9 @@
 
 💻 就职于京东，参与京东零售下的**广告系统(广告创意)、[出海平台](https://jdwm.jd.com/home/)、政策系统**工作.
 
-🖖 热爱学习，热爱分享；持续关注 PHP Java Golang 不断精进不断学习.
+🚀 热爱不断学习与分享经验，持续追踪并深耕PHP、Java、Golang等领域，不断提升自我。
 
-✍️ 了解一些后端相关技术栈，热爱开源文化，工作学习之余混迹开源社区.
+💼 对后端技术领域有一定了解，热情支持开源文化，工作之余积极融入开源社区，积累更多经验。
 
   <!-- 
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/nateshao/images/20220327211544.jpg" width="300" hight="275"/> </td>  
