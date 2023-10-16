@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! 👋  I'm <a href="https://github.com/nateshao">千羽</a>!</h1>
 
 
-💻 就职于京东，参与京东零售下的**广告系统(广告创意)、[出海平台](https://jdwm.jd.com/home/)、政策系统**工作.
+💻 曾就职于京东，参与京东零售下的**广告系统(广告创意)、[出海平台](https://jdwm.jd.com/home/)、政策系统**工作.
 
 🚀 热爱不断学习与分享经验，持续追踪并深耕PHP、Java、Golang等领域，不断提升自我。
 
