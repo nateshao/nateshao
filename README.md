@@ -1,9 +1,9 @@
 <h1 align="center"> Hello! 👋  I'm <a href="https://github.com/nateshao">千羽</a>!</h1>
 
 
-💻 曾就职于京东，参与京东零售下的**广告系统(广告创意)、[出海平台](https://jdwm.jd.com/home/)、政策系统**工作.
+💻 参与京东零售下的**广告系统(广告创意)、[海外广告出海平台](https://jdwm.jd.com/home/)、政策系统**工作.
 
-🚀 热爱不断学习与分享经验，持续追踪并深耕PHP、Java、Golang等领域，不断提升自我。
+🚀 热爱不断学习与分享经验，持续追踪并深耕PHP+Golang+Java等领域，不断提升自我。
 
 💼 对后端技术领域有一定了解，热情支持开源文化，工作之余积极融入开源社区，积累更多经验。
 
@@ -28,7 +28,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=%E5%8D%83%E7%BE%BD&color=7BB32E&logo=wechat"/></td>
-    <td align="center"><img alt="微信公众号" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7&message=%E5%8D%83%E7%BE%BD%E7%9A%84%E7%BC%96%E7%A8%8B%E6%97%B6%E5%85%89&color=7BB32E&logo=wechat"/></td>
+    <td align="center"><img alt="微信公众号" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7&message=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%83%E7%BE%BD&color=7BB32E&logo=wechat"/></td>
    
   </tr>
   <tr>
