@@ -1,9 +1,9 @@
 <h1 align="center"> Hello! 👋  I'm <a href="https://github.com/nateshao">千羽</a>!</h1>
 
 
-<a href="https://nateshao.gitlab.io"><img alt="个人博客" src="https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2&message=%E5%8D%83%E7%BE%BD%E7%9A%84%E7%BC%96%E7%A8%8B%E6%97%B6%E5%85%89&color=pink"/></a> <a href="https://www.zhihu.com/people/yong-yuan-de-da-an-9"><img alt="知乎专栏" src="https://img.shields.io/static/v1?label=%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F&message=nateshao&color=0084FF&logo=Zhihu"/></a> <a href="mailto:1210331079@qq.com"><img alt="邮箱" src="https://img.shields.io/static/v1?label=%E9%82%AE%E7%AE%B1&message=1210331079@qq.com&color=3ABFE6&logo=Minutemailer"/></a> 
+<a href="https://nateshao.gitlab.io"><img alt="个人博客" src="[https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2&message=%E5%8D%83%E7%BE%BD%E7%9A%84%E7%BC%96%E7%A8%8B%E6%97%B6%E5%85%89&color=pink](https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2&message=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%83%E7%BE%BD&color=pink)"/></a> <a href="https://www.zhihu.com/people/yong-yuan-de-da-an-9"><img alt="知乎专栏" src="https://img.shields.io/static/v1?label=%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F&message=nateshao&color=0084FF&logo=Zhihu"/></a> <a href="mailto:1210331079@qq.com"><img alt="邮箱" src="https://img.shields.io/static/v1?label=%E9%82%AE%E7%AE%B1&message=1210331079@qq.com&color=3ABFE6&logo=Minutemailer"/></a> 
   
-💻 参与京东零售下的**广告系统(广告创意)、[海外广告出海平台](https://jdwm.jd.com/home/)、政策系统**工作.
+💻 三年后端开发经验。参与京东零售下的**广告系统(广告创意)、[海外广告出海平台](https://jdwm.jd.com/home/)、政策系统**工作.
 
 🚀 热爱不断学习与分享经验，持续追踪并深耕PHP+Golang+Java等领域，不断提升自我。
 
