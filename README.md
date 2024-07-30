@@ -5,9 +5,9 @@
 <img alt="邮箱" src="https://img.shields.io/static/v1?label=%E9%82%AE%E7%AE%B1&message=1210331079@qq.com&color=3ABFE6&logo=Minutemailer"/>
 </a> 
   
-💻 三年后端开发经验。有过京东零售下的**广告系统(广告创意)、[海外广告出海平台](https://jdwm.jd.com/home/)、政策系统**工作.
+💻 三年后端开发经验，掌握Golang/Java/PHP。有过京东零售下的**广告系统(广告创意)、[海外广告出海平台](https://jdwm.jd.com/home/)、政策系统**工作.
 
-🚀 热爱不断学习与分享经验，持续追踪并深耕PHP+Golang+Java等领域，不断提升自我。
+🚀 热爱不断学习与分享经验，持续追踪并深耕后端等领域，不断提升自我。
 
 💼 对后端技术领域有一定了解，热情支持开源文化，工作之余积极融入开源社区，积累更多经验。
 
