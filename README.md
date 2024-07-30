@@ -1,16 +1,8 @@
 <h1 align="center"> Hello! 👋  I'm <a href="https://github.com/nateshao">千羽</a>!</h1>
 
-
-<a href="https://nateshao.gitlab.io">
-
-
-<img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=1210331079&color=green"/>
-  </a> 
-
+<a href="https://nateshao.gitlab.io"><img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=1210331079&color=green"/></a> 
 <a href="https://www.zhihu.com/people/yong-yuan-de-da-an-9"><img alt="知乎专栏" src="https://img.shields.io/static/v1?label=%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F&message=nateshao&color=0084FF&logo=Zhihu"/></a> <a href="mailto:1210331079@qq.com">
-
 <img alt="邮箱" src="https://img.shields.io/static/v1?label=%E9%82%AE%E7%AE%B1&message=1210331079@qq.com&color=3ABFE6&logo=Minutemailer"/>
-
 </a> 
   
 💻 三年后端开发经验。有过京东零售下的**广告系统(广告创意)、[海外广告出海平台](https://jdwm.jd.com/home/)、政策系统**工作.
