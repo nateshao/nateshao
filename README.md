@@ -9,6 +9,8 @@
 
 💼 对后端技术领域有一定了解，热情支持开源文化，工作之余积极融入开源社区，积累更多经验。
 
+📘 曾为 开源指北、微众银行 等开源项目提交 PR，参与开源共建。
+
   <!-- 
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/nateshao/images/20220327211544.jpg" width="300" hight="275"/> </td>  
   -->
